@@ -6,4 +6,4 @@
 
 - **Goal:** find and read a hidden file inside a folder.
 - **Concepts:** the `ls` option that shows hidden files (`-a`), and why a dot makes a file hidden.
-- **My notes:** _to be added: what I tried and what error I saw._
+- **My notes:** Discovering hidden files and understanding directory contents.
