@@ -6,4 +6,4 @@
 
 - **Goal:** read a file in the home folder whose name is just a dash.
 - **Concepts:** how the shell reads arguments, and how to refer to a file by its path.
-- **My notes:** _to be added: what I tried and what error I saw._
+- **My notes:** Understanding how Linux interprets filenames.
