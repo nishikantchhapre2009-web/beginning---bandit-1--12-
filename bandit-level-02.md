@@ -6,4 +6,4 @@
 
 - **Goal:** read a file whose name contains spaces.
 - **Concepts:** quoting and escaping, and Tab completion, which fills in awkward names for you.
-- **My notes:** _to be added: what I tried and what error I saw._
+- **My notes:** Understanding how a terminal reads filenames.
