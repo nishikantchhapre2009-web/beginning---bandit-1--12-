@@ -6,4 +6,4 @@
 
 - **Goal:** among several files, find the one that holds readable text.
 - **Concepts:** the `file` command, which reports a file's type. It helped me again in Level 12.
-- **My notes:** _to be added: what I tried and what error I saw._
+- **My notes:** Identifying file types and inspecting unfamiliar files.
