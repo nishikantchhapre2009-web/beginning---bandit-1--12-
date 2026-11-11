@@ -6,4 +6,4 @@
 
 - **Goal:** find the readable password in a mostly binary file, among lines marked with several equals signs.
 - **Concepts:** `strings`, combined with `grep` through a pipe.
-- **My notes:** _to be added: what I tried and what error I saw._
+- **My notes:** Extracting readable strings from unusual files.
