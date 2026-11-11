@@ -6,4 +6,5 @@
 
 - **Goal:** find the password that sits next to a given word in a large file.
 - **Concepts:** `grep`, which prints only the lines that match a pattern.
-- **My notes:** _to be added: what I tried and what error I saw._
+- **My notes:** Searching text efficiently.
+- 
