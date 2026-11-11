@@ -6,4 +6,4 @@
 
 - **Goal:** find the only line in a file that occurs exactly once.
 - **Concepts:** `sort` and `uniq`, and joining commands with a pipe (`|`).
-- **My notes:** _to be added: what I tried and what error I saw._
+- **My notes:** Sorting and identifying unique data
